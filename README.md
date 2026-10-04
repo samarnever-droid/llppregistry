@@ -25,3 +25,13 @@ keel publish
 ```
 
 `registry.lplusplus.bond` is a read-only HTTP mirror. Git push rights are the publisher authority.
+
+## HTTP Mirror (Cloudflare Worker)
+
+`registry-worker/` hosts the read-only HTTP mirror deployed to `registry.lplusplus.bond`.
+It is automatically deployed via GitHub Actions when changes land in `main`.
+
+Required GitHub Actions secrets:
+- `CLOUDFLARE_API_TOKEN`
+- `CLOUDFLARE_ACCOUNT_ID`
+
