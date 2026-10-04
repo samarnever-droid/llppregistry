@@ -1,0 +1,20 @@
+name: Validate registry
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Regenerate public index
+        run: python3 scripts/generate_registry_index.py
+      - name: Check generated index is committed
+        run: git diff --exit-code -- registry/index.json
