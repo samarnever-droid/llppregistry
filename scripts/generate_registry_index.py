@@ -19,7 +19,7 @@ REGISTRY_URL = "https://registry.lplusplus.bond"
 
 
 def load_json(path: pathlib.Path) -> Any:
-    return json.loads(path.read_text())
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
 def sparse_entries() -> dict[str, Any]:
@@ -73,7 +73,7 @@ def main() -> int:
         "packages": {name: packages[name] for name in sorted(packages)},
     }
     AGGREGATE_INDEX.parent.mkdir(parents=True, exist_ok=True)
-    AGGREGATE_INDEX.write_text(json.dumps(manifest, indent=2, sort_keys=True, ensure_ascii=False) + "\n")
+    AGGREGATE_INDEX.write_text(json.dumps(manifest, indent=2, sort_keys=True, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"generated {AGGREGATE_INDEX.relative_to(ROOT)} ({len(packages)} packages)")
     return 0
 

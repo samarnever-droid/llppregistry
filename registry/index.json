@@ -610,8 +610,8 @@
     "description": "Official L++ package registry — git-backed, static-mirrored, SHA-256 verified",
     "name": "L++ Official Package Registry",
     "package_count": 19,
+    "repository": "samarnever-droid/llppregistry",
     "source_of_truth": "git",
-    "static_index_url": "https://lplusplus.bond/registry/index.json",
     "url": "https://registry.lplusplus.bond",
     "version": "3.0.0"
   }
