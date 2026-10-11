@@ -317,6 +317,21 @@
       "source_url": "https://raw.githubusercontent.com/samarnever-droid/lpp-opencode/main/src/main.lpp",
       "version": "0.6.0"
     },
+    "lpp-semver": {
+      "name": "lpp-semver",
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "checksum": "ed937ef3616971b58bcbaa4d75a4e43fc5c1a75b59fc663e94e84a24316d884d",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/ed937ef3616971b58bcbaa4d75a4e43fc5c1a75b59fc663e94e84a24316d884d",
+          "features": {},
+          "targets": [],
+          "version": "1.0.0",
+          "yanked": false
+        }
+      }
+    },
     "lpp-strings": {
       "authors": [
         "0x4171341"
@@ -609,7 +624,7 @@
   "registry": {
     "description": "Official L++ package registry — git-backed, static-mirrored, SHA-256 verified",
     "name": "L++ Official Package Registry",
-    "package_count": 19,
+    "package_count": 20,
     "repository": "samarnever-droid/llppregistry",
     "source_of_truth": "git",
     "url": "https://registry.lplusplus.bond",

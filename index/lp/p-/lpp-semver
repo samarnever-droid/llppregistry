@@ -1,0 +1,13 @@
+{
+  "name": "lpp-semver",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "deps": [],
+      "features": {},
+      "checksum": "ed937ef3616971b58bcbaa4d75a4e43fc5c1a75b59fc663e94e84a24316d884d",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
