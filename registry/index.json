@@ -577,7 +577,7 @@
     },
     "maya": {
       "name": "maya",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "versions": {
         "0.1.0": {
           "checksum": "1b794593e946e851ba99ce6e5ece381c5eaac0f81a8edf6c404eeea8623f16d2",
@@ -593,6 +593,22 @@
           "features": {},
           "targets": [],
           "version": "0.1.0",
+          "yanked": false
+        },
+        "0.2.0": {
+          "checksum": "78505b67c1812850948833c5d8b926671d398dcc9f33d58155ae02ded7013ae3",
+          "deps": [
+            {
+              "features": [],
+              "name": "lpp-semver",
+              "optional": false,
+              "req": "*"
+            }
+          ],
+          "download_url": "https://registry.lplusplus.bond/blob/78505b67c1812850948833c5d8b926671d398dcc9f33d58155ae02ded7013ae3",
+          "features": {},
+          "targets": [],
+          "version": "0.2.0",
           "yanked": false
         }
       }

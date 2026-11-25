@@ -15,6 +15,21 @@
       "checksum": "1b794593e946e851ba99ce6e5ece381c5eaac0f81a8edf6c404eeea8623f16d2",
       "targets": [],
       "yanked": false
+    },
+    {
+      "version": "0.2.0",
+      "deps": [
+        {
+          "name": "lpp-semver",
+          "req": "*",
+          "optional": false,
+          "features": []
+        }
+      ],
+      "features": {},
+      "checksum": "78505b67c1812850948833c5d8b926671d398dcc9f33d58155ae02ded7013ae3",
+      "targets": [],
+      "yanked": false
     }
   ]
 }
