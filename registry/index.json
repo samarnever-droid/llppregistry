@@ -575,6 +575,28 @@
       "source_url": "https://raw.githubusercontent.com/samarnever-droid/lreact/main/src/lreact.lpp",
       "version": "1.0.0"
     },
+    "maya": {
+      "name": "maya",
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "1b794593e946e851ba99ce6e5ece381c5eaac0f81a8edf6c404eeea8623f16d2",
+          "deps": [
+            {
+              "features": [],
+              "name": "lpp-semver",
+              "optional": false,
+              "req": "*"
+            }
+          ],
+          "download_url": "https://registry.lplusplus.bond/blob/1b794593e946e851ba99ce6e5ece381c5eaac0f81a8edf6c404eeea8623f16d2",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
+    },
     "openclaude": {
       "authors": [
         "0x4171341"
@@ -624,7 +646,7 @@
   "registry": {
     "description": "Official L++ package registry — git-backed, static-mirrored, SHA-256 verified",
     "name": "L++ Official Package Registry",
-    "package_count": 20,
+    "package_count": 21,
     "repository": "samarnever-droid/llppregistry",
     "source_of_truth": "git",
     "url": "https://registry.lplusplus.bond",

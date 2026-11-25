@@ -1,0 +1,20 @@
+{
+  "name": "maya",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [
+        {
+          "name": "lpp-semver",
+          "req": "*",
+          "optional": false,
+          "features": []
+        }
+      ],
+      "features": {},
+      "checksum": "1b794593e946e851ba99ce6e5ece381c5eaac0f81a8edf6c404eeea8623f16d2",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
