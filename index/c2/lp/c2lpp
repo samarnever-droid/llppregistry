@@ -1,0 +1,13 @@
+{
+  "name": "c2lpp",
+  "versions": [
+    {
+      "version": "0.4.0",
+      "deps": [],
+      "features": {},
+      "checksum": "75d34b4b25b07e5daa19658682887570b60f553ac14a266f27e662df40e3c408",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
