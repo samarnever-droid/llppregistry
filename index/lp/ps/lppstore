@@ -1,0 +1,13 @@
+{
+  "name": "lppstore",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "1771b0c465058deebfb7b3e6d37872a03c4e1604fc3b3ea9354179fd50259659",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}

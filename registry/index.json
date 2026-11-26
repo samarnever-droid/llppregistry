@@ -697,7 +697,18 @@
       "path": "packages/lppstore",
       "repository": "https://github.com/samarnever-droid/lplusplus",
       "source": "packages/lppstore/src/main.lpp",
-      "version": "0.6.0"
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "1771b0c465058deebfb7b3e6d37872a03c4e1604fc3b3ea9354179fd50259659",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/1771b0c465058deebfb7b3e6d37872a03c4e1604fc3b3ea9354179fd50259659",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
     },
     "lreact": {
       "authors": [
