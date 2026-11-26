@@ -225,7 +225,18 @@
       "path": "packages/lpp-engine",
       "repository": "https://github.com/samarnever-droid/lplusplus",
       "source": "packages/lpp-engine/src/main.lpp",
-      "version": "2.0.0"
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "f21b68dd5c50c37740e484e863c4a50b1d723e2aa6b8392a908ebc6cfb2fc732",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/f21b68dd5c50c37740e484e863c4a50b1d723e2aa6b8392a908ebc6cfb2fc732",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
     },
     "lpp-graph": {
       "name": "lpp-graph",
