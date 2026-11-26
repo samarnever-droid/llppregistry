@@ -584,7 +584,18 @@
       "path": "packages/lppdb/src/lppdb.lpp",
       "repository": "https://github.com/samarnever-droid/lplusplus",
       "source": "packages/lppdb/src/lppdb.lpp",
-      "version": "1.0.0"
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "fbbadc14b01c534400ea565c234938f448d3d05758098b3b98c420b2a5f794f3",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/fbbadc14b01c534400ea565c234938f448d3d05758098b3b98c420b2a5f794f3",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
     },
     "lppsqlite": {
       "api": {

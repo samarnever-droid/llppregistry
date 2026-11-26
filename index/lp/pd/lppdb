@@ -1,0 +1,13 @@
+{
+  "name": "lppdb",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "fbbadc14b01c534400ea565c234938f448d3d05758098b3b98c420b2a5f794f3",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
