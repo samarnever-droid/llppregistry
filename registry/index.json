@@ -453,7 +453,18 @@
       "path": "packages/lpp-zip",
       "repository": "https://github.com/samarnever-droid/lplusplus",
       "source": "packages/lpp-zip/src/zip.lpp",
-      "version": "0.1.0"
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "35a336100a20f8eca47a40aaf6cc1e798f76c5a5a2a587e8f66b212cfce6d192",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/35a336100a20f8eca47a40aaf6cc1e798f76c5a5a2a587e8f66b212cfce6d192",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
     },
     "lppdb": {
       "api": {

@@ -1,0 +1,13 @@
+{
+  "name": "lpp-zip",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "35a336100a20f8eca47a40aaf6cc1e798f76c5a5a2a587e8f66b212cfce6d192",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
