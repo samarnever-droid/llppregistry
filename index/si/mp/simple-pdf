@@ -1,0 +1,13 @@
+{
+  "name": "simple-pdf",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "eeb7db20628ea14b8efeb63b53dcf7d3eb81372da9d7a21ccba45b78d682ac0a",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
