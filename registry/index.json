@@ -349,6 +349,21 @@
       "source": "stdlib/strings.lpp",
       "version": "0.1.0"
     },
+    "lpp-toml": {
+      "name": "lpp-toml",
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "checksum": "b3722ee2b9d80a2f77de89539da02f8148ed40fa48b95486690c1f18a1cbd879",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/b3722ee2b9d80a2f77de89539da02f8148ed40fa48b95486690c1f18a1cbd879",
+          "features": {},
+          "targets": [],
+          "version": "1.0.0",
+          "yanked": false
+        }
+      }
+    },
     "lpp-tui": {
       "authors": [
         "0x4171341"
@@ -662,7 +677,7 @@
   "registry": {
     "description": "Official L++ package registry — git-backed, static-mirrored, SHA-256 verified",
     "name": "L++ Official Package Registry",
-    "package_count": 21,
+    "package_count": 22,
     "repository": "samarnever-droid/llppregistry",
     "source_of_truth": "git",
     "url": "https://registry.lplusplus.bond",

@@ -1,0 +1,13 @@
+{
+  "name": "lpp-toml",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "deps": [],
+      "features": {},
+      "checksum": "b3722ee2b9d80a2f77de89539da02f8148ed40fa48b95486690c1f18a1cbd879",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
