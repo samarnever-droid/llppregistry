@@ -238,6 +238,21 @@
         }
       }
     },
+    "lpp-git": {
+      "name": "lpp-git",
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "71657c49d987ccce7625861662f7b239140b8e90f011e178d8b2461b5a93622a",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/71657c49d987ccce7625861662f7b239140b8e90f011e178d8b2461b5a93622a",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
+    },
     "lpp-graph": {
       "name": "lpp-graph",
       "version": "0.1.0",
@@ -803,7 +818,7 @@
   "registry": {
     "description": "Official L++ package registry — git-backed, static-mirrored, SHA-256 verified",
     "name": "L++ Official Package Registry",
-    "package_count": 26,
+    "package_count": 27,
     "repository": "samarnever-droid/llppregistry",
     "source_of_truth": "git",
     "url": "https://registry.lplusplus.bond",

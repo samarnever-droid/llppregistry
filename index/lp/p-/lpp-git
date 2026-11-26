@@ -1,0 +1,13 @@
+{
+  "name": "lpp-git",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "71657c49d987ccce7625861662f7b239140b8e90f011e178d8b2461b5a93622a",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
