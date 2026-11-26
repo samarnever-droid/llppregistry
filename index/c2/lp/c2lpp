@@ -8,6 +8,14 @@
       "checksum": "75d34b4b25b07e5daa19658682887570b60f553ac14a266f27e662df40e3c408",
       "targets": [],
       "yanked": false
+    },
+    {
+      "version": "0.5.0",
+      "deps": [],
+      "features": {},
+      "checksum": "a4ae2c96b5694949987bd789a51f84304f3a32446cc06ca4c4fe4466414ae6fb",
+      "targets": [],
+      "yanked": false
     }
   ]
 }
