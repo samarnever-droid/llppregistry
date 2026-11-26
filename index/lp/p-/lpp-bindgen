@@ -1,0 +1,13 @@
+{
+  "name": "lpp-bindgen",
+  "versions": [
+    {
+      "version": "0.37.0",
+      "deps": [],
+      "features": {},
+      "checksum": "7a5756fe6346303bf825f12d74a3c101da7a65ed5f3fa1f36c2220eba3937b56",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}

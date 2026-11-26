@@ -157,7 +157,18 @@
       "path": "packages/lpp-bindgen",
       "repository": "https://github.com/samarnever-droid/lplusplus",
       "source": "packages/lpp-bindgen/src/main.lpp",
-      "version": "0.36.0"
+      "version": "0.37.0",
+      "versions": {
+        "0.37.0": {
+          "checksum": "7a5756fe6346303bf825f12d74a3c101da7a65ed5f3fa1f36c2220eba3937b56",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/7a5756fe6346303bf825f12d74a3c101da7a65ed5f3fa1f36c2220eba3937b56",
+          "features": {},
+          "targets": [],
+          "version": "0.37.0",
+          "yanked": false
+        }
+      }
     },
     "lpp-collections": {
       "authors": [
