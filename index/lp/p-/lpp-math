@@ -1,0 +1,13 @@
+{
+  "name": "lpp-math",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "32927783f894493b48515c89889c9429e5018a69ff49474428d842ea095f4e47",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}

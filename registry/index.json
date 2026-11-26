@@ -229,7 +229,18 @@
       "name": "lpp-math",
       "path": "stdlib/math.lpp",
       "source": "stdlib/math.lpp",
-      "version": "0.1.0"
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "32927783f894493b48515c89889c9429e5018a69ff49474428d842ea095f4e47",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/32927783f894493b48515c89889c9429e5018a69ff49474428d842ea095f4e47",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
     },
     "lpp-openclaude": {
       "authors": [
