@@ -466,6 +466,21 @@
         }
       }
     },
+    "lpp-zundo": {
+      "name": "lpp-zundo",
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "84e6059bafe71c4fed12bd5e16411cfe67069356567afa6f78838d57f59e75d9",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/84e6059bafe71c4fed12bd5e16411cfe67069356567afa6f78838d57f59e75d9",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
+    },
     "lppdb": {
       "api": {
         "db_close": "(handle: Int) - release memory",
@@ -714,7 +729,7 @@
   "registry": {
     "description": "Official L++ package registry — git-backed, static-mirrored, SHA-256 verified",
     "name": "L++ Official Package Registry",
-    "package_count": 23,
+    "package_count": 24,
     "repository": "samarnever-droid/llppregistry",
     "source_of_truth": "git",
     "url": "https://registry.lplusplus.bond",

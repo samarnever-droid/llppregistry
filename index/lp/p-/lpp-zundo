@@ -1,0 +1,13 @@
+{
+  "name": "lpp-zundo",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "84e6059bafe71c4fed12bd5e16411cfe67069356567afa6f78838d57f59e75d9",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
