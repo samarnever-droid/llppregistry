@@ -99,7 +99,18 @@
       "path": "packages/compresslpp",
       "repository": "https://github.com/samarnever-droid/lplusplus",
       "source": "packages/compresslpp/src/zip.lpp",
-      "version": "1.0.0"
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "eb3885f77d5abf285399328ad96e1eb0bfd87e62d8995aa2223c55dcf605336b",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/eb3885f77d5abf285399328ad96e1eb0bfd87e62d8995aa2223c55dcf605336b",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
     },
     "lpp-algo": {
       "authors": [

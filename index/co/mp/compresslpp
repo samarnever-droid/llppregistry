@@ -1,0 +1,13 @@
+{
+  "name": "compresslpp",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "eb3885f77d5abf285399328ad96e1eb0bfd87e62d8995aa2223c55dcf605336b",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
