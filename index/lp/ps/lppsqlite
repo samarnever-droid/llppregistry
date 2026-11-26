@@ -1,0 +1,13 @@
+{
+  "name": "lppsqlite",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "014c512441c7b5eb05a235fede39a5dfdf10f38c0fc7c6893ef99181403092b7",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}

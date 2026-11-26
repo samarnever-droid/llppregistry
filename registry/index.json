@@ -668,7 +668,18 @@
       "path": "packages/lppsqlite",
       "repository": "https://github.com/samarnever-droid/lplusplus",
       "source": "packages/lppsqlite/src/exec.lpp",
-      "version": "1.2.0"
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "014c512441c7b5eb05a235fede39a5dfdf10f38c0fc7c6893ef99181403092b7",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/014c512441c7b5eb05a235fede39a5dfdf10f38c0fc7c6893ef99181403092b7",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
     },
     "lppstore": {
       "authors": [
