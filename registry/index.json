@@ -207,7 +207,18 @@
       "name": "lpp-collections",
       "path": "stdlib/collections.lpp",
       "source": "stdlib/collections.lpp",
-      "version": "0.1.0"
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "d843841890701d0060773590b86fb8c390d7e481f799b36c438d6a3accc0c533",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/d843841890701d0060773590b86fb8c390d7e481f799b36c438d6a3accc0c533",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
     },
     "lpp-engine": {
       "authors": [

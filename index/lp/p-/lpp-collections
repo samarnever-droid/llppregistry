@@ -1,0 +1,13 @@
+{
+  "name": "lpp-collections",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "d843841890701d0060773590b86fb8c390d7e481f799b36c438d6a3accc0c533",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
