@@ -734,6 +734,21 @@
       "source_url": "https://raw.githubusercontent.com/samarnever-droid/lreact/main/src/lreact.lpp",
       "version": "1.0.0"
     },
+    "lreact-demo": {
+      "name": "lreact-demo",
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "a1e052b2d925481637da1512634145871bf25c85d2c0507ff422a62025321ef0",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/a1e052b2d925481637da1512634145871bf25c85d2c0507ff422a62025321ef0",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
+    },
     "maya": {
       "name": "maya",
       "version": "0.2.0",
@@ -851,7 +866,7 @@
   "registry": {
     "description": "Official L++ package registry — git-backed, static-mirrored, SHA-256 verified",
     "name": "L++ Official Package Registry",
-    "package_count": 27,
+    "package_count": 28,
     "repository": "samarnever-droid/llppregistry",
     "source_of_truth": "git",
     "url": "https://registry.lplusplus.bond",

@@ -1,0 +1,13 @@
+{
+  "name": "lreact-demo",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "a1e052b2d925481637da1512634145871bf25c85d2c0507ff422a62025321ef0",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}
