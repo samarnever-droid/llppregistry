@@ -1,0 +1,13 @@
+{
+  "name": "simple-markdown",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "deps": [],
+      "features": {},
+      "checksum": "b35fc64a4c99a42a6674908d781579493a51d7003ed554d39ac7f2650ac52081",
+      "targets": [],
+      "yanked": false
+    }
+  ]
+}

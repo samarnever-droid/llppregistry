@@ -735,12 +735,27 @@
       "repository": "https://github.com/samarnever-droid/lpp-opencode",
       "source_url": "https://raw.githubusercontent.com/samarnever-droid/lpp-opencode/main/src/main.lpp",
       "version": "0.6.0"
+    },
+    "simple-markdown": {
+      "name": "simple-markdown",
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "b35fc64a4c99a42a6674908d781579493a51d7003ed554d39ac7f2650ac52081",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/b35fc64a4c99a42a6674908d781579493a51d7003ed554d39ac7f2650ac52081",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
     }
   },
   "registry": {
     "description": "Official L++ package registry — git-backed, static-mirrored, SHA-256 verified",
     "name": "L++ Official Package Registry",
-    "package_count": 24,
+    "package_count": 25,
     "repository": "samarnever-droid/llppregistry",
     "source_of_truth": "git",
     "url": "https://registry.lplusplus.bond",
