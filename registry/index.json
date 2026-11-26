@@ -147,7 +147,18 @@
       "path": "packages/lpp-analyzer",
       "repository": "https://github.com/samarnever-droid/lplusplus",
       "source": "packages/lpp-analyzer/src/main.lpp",
-      "version": "1.4.0"
+      "version": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "checksum": "598232098e70e3168fe44a683d85b959302ab3fd593badd6111dbdf146e171ee",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/598232098e70e3168fe44a683d85b959302ab3fd593badd6111dbdf146e171ee",
+          "features": {},
+          "targets": [],
+          "version": "0.1.0",
+          "yanked": false
+        }
+      }
     },
     "lpp-bindgen": {
       "authors": [
