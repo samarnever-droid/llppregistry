@@ -45,7 +45,7 @@
       "path": "packages/c2lpp",
       "repository": "https://github.com/samarnever-droid/lplusplus",
       "source": "packages/c2lpp/src/main.lpp",
-      "version": "0.7.0",
+      "version": "0.8.0",
       "versions": {
         "0.4.0": {
           "checksum": "75d34b4b25b07e5daa19658682887570b60f553ac14a266f27e662df40e3c408",
@@ -81,6 +81,15 @@
           "features": {},
           "targets": [],
           "version": "0.7.0",
+          "yanked": false
+        },
+        "0.8.0": {
+          "checksum": "6c72b1f2fc1012dfed2924ba7d9e1a8c4e3429279a86c338406f7d4ad0404df2",
+          "deps": [],
+          "download_url": "https://registry.lplusplus.bond/blob/6c72b1f2fc1012dfed2924ba7d9e1a8c4e3429279a86c338406f7d4ad0404df2",
+          "features": {},
+          "targets": [],
+          "version": "0.8.0",
           "yanked": false
         }
       }
