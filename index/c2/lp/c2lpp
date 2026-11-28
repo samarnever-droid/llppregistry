@@ -40,6 +40,14 @@
       "checksum": "6c72b1f2fc1012dfed2924ba7d9e1a8c4e3429279a86c338406f7d4ad0404df2",
       "targets": [],
       "yanked": false
+    },
+    {
+      "version": "0.10.0",
+      "deps": [],
+      "features": {},
+      "checksum": "b523dd0348f86565602ee77b635940bf2bee1a76ce1c28d5931494baf829d123",
+      "targets": [],
+      "yanked": false
     }
   ]
 }
